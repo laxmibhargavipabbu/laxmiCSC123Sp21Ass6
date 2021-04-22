@@ -1,4 +1,4 @@
-package Assignment6;
+package laxmiCSC123Sp21Ass6;
 import java.util.ArrayList;
 
 public class Attraction

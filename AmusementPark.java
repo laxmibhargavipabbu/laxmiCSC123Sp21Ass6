@@ -1,4 +1,4 @@
-package Assignment6;
+package laxmiCSC123Sp21Ass6;
 
 import java.io.IOException;
 import java.io.PrintWriter;
